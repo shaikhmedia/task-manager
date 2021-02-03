@@ -1,0 +1,24 @@
+.Task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #99b898;
+  color: white;
+  width: 100%;
+  margin: 10px 0px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.Task p {
+  margin: 0px;
+}
+
+.Urgent {
+  border-right: 5px solid #2a363b;
+}
+
+.Delete:hover {
+  cursor: pointer;
+}
