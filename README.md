@@ -1,3 +1,3 @@
 # Task Manager app
-This is full stack app built with Reach hooks and Firebase
+This is a full stack app built with React hooks and Firebase
 
